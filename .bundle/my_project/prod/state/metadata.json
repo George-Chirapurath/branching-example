@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "config": {
+    "bundle": {
+      "git": {
+        "bundle_root_path": "."
+      }
+    },
+    "workspace": {
+      "file_path": "/Workspace/Users/George.chirapurath@databricks.com/branching-example/.bundle/my_project/prod/files"
+    },
+    "resources": {
+      "jobs": {
+        "my_project_job": {
+          "id": "572480320391430",
+          "relative_path": "resources/my_project.job.yml"
+        }
+      }
+    }
+  }
+}
